@@ -7,3 +7,32 @@ This repository is dedicated to solidifying my programming foundations and pract
 * Master core programming concepts (Variables, Conditionals, Loops, and Arrays).
 * Develop strong analytical skills for problem-solving.
 * Build a structured habit of documenting code and logic flow.
+
+## 🗺️ VisuAlg Quick Translation Guide
+Since VisuAlg is a tool that uses structured Portuguese for pseudocode, here is a quick reference guide to understand the main commands used in this repository:
+
+| VisuAlg Command | English Equivalent | Description |
+| :--- | :--- | :--- |
+| `algoritmo` | `algorithm` | Defines the name of the program. |
+| `var` | `variables` | The section where all variables are declared. |
+| `inicio` | `begin` / `start` | Marks the beginning of the execution block. |
+| `fimalgoritmo` | `end algorithm` | Marks the end of the program. |
+| `leia` | `read` / `input` | Receives data typed by the user. |
+| `escreva` / `escreval` | `print` / `write` | Displays information on the screen (`escreval` adds a new line). |
+
+### 📊 Data Types Reference
+
+| VisuAlg Type | English Equivalent | Description |
+| :--- | :--- | :--- |
+| `inteiro` | `integer` | Stores whole numbers (e.g., 1, 2, -5). |
+| `real` | `float` / `double` | Stores numbers with decimal points (e.g., 7.5, -3.14). |
+| `caractere` | `string` / `char` | Stores text, alphanumeric characters, or symbols. |
+| `logico` | `boolean` | Stores logical values (`verdadeiro` / `falso`). |
+
+### 🔄 Control Structures & Conditionals
+
+| VisuAlg Syntax | English Equivalent | Description |
+| :--- | :--- | :--- |
+| `se ... entao` | `if ... then` | Initiates a conditional block based on a true statement. |
+| `senao` | `else` | Executes an alternative block if the `se` condition is false. |
+| `fimse` | `end if` | Marks the end of the conditional block. |
