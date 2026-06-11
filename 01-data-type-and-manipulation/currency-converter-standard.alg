@@ -1,4 +1,4 @@
-algoritmo "Currency Converter"
+algoritmo "Currency-Converter"
 
 var
    userName : caractere
