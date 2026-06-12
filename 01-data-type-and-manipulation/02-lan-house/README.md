@@ -9,4 +9,4 @@ A billing tool designed to manage customer usage in an internet cafe. The system
 ### 🚀 How to Run
 1. Open [VisuAlg Web](https://visualgweb.com.br/).
 2. Paste the code from `lan-house.alg`.
-3. Run the program (`F9`).
+3. Run the program.
