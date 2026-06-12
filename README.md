@@ -19,20 +19,3 @@ Since VisuAlg is a tool that uses structured Portuguese for pseudocode, here is 
 | `fimalgoritmo` | `end algorithm` | Marks the end of the program. |
 | `leia` | `read` / `input` | Receives data typed by the user. |
 | `escreva` / `escreval` | `print` / `write` | Displays information on the screen (`escreval` adds a new line). |
-
-### 📊 Data Types Reference
-
-| VisuAlg Type | English Equivalent | Description |
-| :--- | :--- | :--- |
-| `inteiro` | `integer` | Stores whole numbers (e.g., 1, 2, -5). |
-| `real` | `float` / `double` | Stores numbers with decimal points (e.g., 7.5, -3.14). |
-| `caractere` | `string` / `char` | Stores text, alphanumeric characters, or symbols. |
-| `logico` | `boolean` | Stores logical values (`verdadeiro` / `falso`). |
-
-### 🔄 Control Structures & Conditionals
-
-| VisuAlg Syntax | English Equivalent | Description |
-| :--- | :--- | :--- |
-| `se ... entao` | `if ... then` | Initiates a conditional block based on a true statement. |
-| `senao` | `else` | Executes an alternative block if the `se` condition is false. |
-| `fimse` | `end if` | Marks the end of the conditional block. |
