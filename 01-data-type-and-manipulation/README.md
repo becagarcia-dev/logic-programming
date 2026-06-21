@@ -18,6 +18,8 @@ This is the foundational mapping used across all exercises in this section:
 * **`02-currency-converter/`** - Currency Converter (Data input/output and currency conversion logic).
 * **`03-temperature-alert-system/`** - Temperature Alert System (Applying formulas and output formatting).
 * **`04-student-average/`** - Student Average Calculator (Arithmetic mean calculation and operator precedence).
+* **`05-smart-security-sensor/`** - IoT Smart Security Sensor (Evaluating boolean states and storing integer data).
+* **`06-smart-storage-monitor/`** - Smart Storage Monitor (Monitoring thresholds and handling numeric to boolean states).
 
 ### 🛠️ Technologies
 * VisuAlg (Pascal/Pseudocode)
