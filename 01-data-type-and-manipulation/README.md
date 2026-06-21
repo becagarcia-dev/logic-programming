@@ -11,7 +11,7 @@ This is the foundational mapping used across all exercises in this section:
 | `inteiro` | `integer` | Stores whole numbers (e.g., 1, 2, -5). |
 | `real` | `float` / `double` | Stores numbers with decimal points (e.g., 7.5, -3.14). |
 | `caractere` | `string` / `char` | Stores text, alphanumeric characters, or symbols. |
-| `logico` | `boolean` | Stores logical values (`verdadeiro` / `falso`). |
+| `logico` | `boolean` | Stores logical values (`verdadeiro` ✔️ / `falso` ✖️). |
 
 ### 📂 Challenges Included
 * **`01-lan-house/`** - Internet Cafe Billing System (Handling integers, reals, and mathematical operations).
