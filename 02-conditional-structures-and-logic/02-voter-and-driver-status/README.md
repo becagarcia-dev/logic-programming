@@ -7,6 +7,6 @@ A demographic validation system that processes age inputs to determine legal sta
 * VisuAlg (Pascal/Pseudocode)
 
 ### 🚀 How to Run
-1. Open [VisuAlg Web](https://visualgweb.com.br/).
+1. Open [VisuAlg Web](https://visualg.com.br/)
 2. Paste the code from `voter-and-driver-status.alg`.
 3. Run the program.
