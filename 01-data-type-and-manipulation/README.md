@@ -26,5 +26,5 @@ This is the foundational mapping used across all exercises in this section:
 
 ### 🚀 How to Run Any Challenge
 1. Open the desired challenge folder and copy the code.
-2. Open [VisuAlg Web](https://visualgweb.com.br/).
+2. Open [VisuAlg Web](https://visualg.com.br/).
 3. Paste the code and run the program.
