@@ -7,6 +7,6 @@ An academic tool designed to calculate student performance. The system captures 
 * VisuAlg (Pascal/Pseudocode)
 
 ### 🚀 How to Run
-1. Open [VisuAlg Web](https://visualgweb.com.br/).
+1. Open [VisuAlg Web](https://visualg.com.br/).
 2. Paste the code from `student-average.alg`.
 3. Run the program.
