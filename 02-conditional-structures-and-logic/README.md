@@ -17,6 +17,9 @@ This mapping details how conditions and control flow operate in this section:
 
 ### 📂 Challenges Included
 * **`01-student-grade-recovery/`** - Student Grade & Recovery System (Handling nested conditional branching and execution paths).
+* **`02-voter-and-driver-status/`** - Voter & Driver Status Validator (Using nested logic to check legal age limits for driving and voting).
+* **`03-even-or-odd-checker/`** - Even or Odd Checker (Using the modulo operator to determine numerical parity).
+* **`04-iot-mission-critical-alert/`** - IoT Mission-Critical Alert System (Using complex AND/OR logical conditions to evaluate hardware thresholds for edge computing environments).
 
 ### 🛠️ Technologies
 * VisuAlg (Pascal/Pseudocode)
