@@ -14,6 +14,8 @@ This mapping details how multi-conditional structures operate in this section:
 
 ### 📂 Challenges Included
 * **`01-iot-command-center/`** - IoT Hub Command Center (Simulating an interactive operational menu for device management with live hardware state manipulation).
+* **`02-telemetry-math-engine/`** - Telemetry Math Processor (An algorithmic utility engineered to process and calibrate raw sensor metrics using multi-conditional arithmetic routing).
+* **`03-residential-property-estimator/`** - Residential Property Estimator (A multi-case structural evaluator that automates real estate valuation algorithms for high-rise residential buildings based on floor elevation parameters).
 
 ### 🛠️ Technologies
 * VisuAlg (Pascal/Pseudocode)
