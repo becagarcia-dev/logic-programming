@@ -18,7 +18,6 @@ This mapping details how iterative structures and control loops operate in this 
 * **`03-factorial-math-processor/`** - Factorial Math Processor (Executes a decrementing iterative routine to process cascading mathematical factorials).
 * **`04-input-boundary-validator/`** - Input Boundary Validator (Implements a strict security data gate that locks execution flow until criteria parameters are met).
 * **`05-multiplication-matrix-generator/`** - Multiplication Matrix Generator (Automates sequential arithmetic generation using an active loop index tracker).
-* **`06-custom-interval-counter/`** - Custom Interval Counter (Demonstrates dynamic step progression using the `passo` keyword to execute positive and negative sequence bounds).
 
 ### 🛠️ Technologies
 * VisuAlg (Pascal/Pseudocode)
