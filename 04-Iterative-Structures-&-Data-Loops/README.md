@@ -10,7 +10,6 @@ This mapping details how iterative structures and control loops operate in this 
 | :--- | :--- | :--- | :--- |
 | `enquanto ... faca` | `while ... do` | Control Flow | Initiates a loop block that executes as long as the condition remains true. |
 | `fimenquanto` | `end while` | Control Flow | Finalizes the iterative structure scope. |
-| `para ... passo` | `for ... step` | Counter Control | Executes a bounded loop with dynamic step increment or decrement offsets. |
 
 ### 📂 Challenges Included
 * **`01-data-stream-accumulator/`** - Data Stream Accumulator (Implements an iterative loop with a designated stop constraint to safely accumulate incoming integer metrics).
