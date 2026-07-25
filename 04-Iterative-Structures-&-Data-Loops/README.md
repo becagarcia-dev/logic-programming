@@ -1,7 +1,7 @@
 # Module 04: Iterative Structures & Data Loops
 
 ### 📝 Description
-This module focuses on mastering iterative execution paths and loop control mechanics using conditional repetitions. The challenges explore dynamic data streams, state accumulation, input validation boundaries, and iterative mathematical processing using `while` (`enquanto/faca`) loops to manage continuous execution blocks efficiently.
+This module focuses on mastering iterative execution paths and loop control mechanics using conditional repetitions and dynamic step jumps. The challenges explore data streams, state accumulation, input validation boundaries, iterative mathematical processing, and custom step intervals using `while` (`enquanto/faca`) and bounded `for` (`para/passo`) loops.
 
 ### 📊 Logic & Loops Reference
 This mapping details how iterative structures and control loops operate in this section:
@@ -10,7 +10,7 @@ This mapping details how iterative structures and control loops operate in this 
 | :--- | :--- | :--- | :--- |
 | `enquanto ... faca` | `while ... do` | Control Flow | Initiates a loop block that executes as long as the condition remains true. |
 | `fimenquanto` | `end while` | Control Flow | Finalizes the iterative structure scope. |
-| `pulo` / `passo` | `increment` / `decrement` | Counter Control | Manages loop state variables to avoid infinite execution blocks. |
+| `para ... passo` | `for ... step` | Counter Control | Executes a bounded loop with dynamic step increment or decrement offsets. |
 
 ### 📂 Challenges Included
 * **`01-data-stream-accumulator/`** - Data Stream Accumulator (Implements an iterative loop with a designated stop constraint to safely accumulate incoming integer metrics).
@@ -18,6 +18,7 @@ This mapping details how iterative structures and control loops operate in this 
 * **`03-factorial-math-processor/`** - Factorial Math Processor (Executes a decrementing iterative routine to process cascading mathematical factorials).
 * **`04-input-boundary-validator/`** - Input Boundary Validator (Implements a strict security data gate that locks execution flow until criteria parameters are met).
 * **`05-multiplication-matrix-generator/`** - Multiplication Matrix Generator (Automates sequential arithmetic generation using an active loop index tracker).
+* **`06-custom-interval-counter/`** - Custom Interval Counter (Demonstrates dynamic step progression using the `passo` keyword to execute positive and negative sequence bounds).
 
 ### 🛠️ Technologies
 * VisuAlg (Pascal/Pseudocode)
